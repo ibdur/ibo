@@ -1,0 +1,9 @@
+theme = "themes/stip"
+[Author]
+    name = "Jane Doe"
+    bio = "Professional coffee drinker"
+    [params.colors]
+    background = "#000000"
+    circle = "#3942ba"
+    foreground = "#c7d0fc"
+    hover = "#cd6cf7"
